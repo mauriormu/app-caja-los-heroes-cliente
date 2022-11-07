@@ -1,0 +1,17 @@
+runtime: java8
+inbound_services:
+- warmup
+derived_file_type:
+- java_precompiled
+threadsafe: True
+auto_id_policy: default
+beta_settings:
+  'source_reference': 'https://github.com/mauriormu/app-caja-los-heroes-cliente.git#2105df1669cc81ba9d802607f93f83e78cf2cc9e'
+api_version: 'user_defined'
+handlers:
+- url: /.*
+  script: unused
+  login: optional
+  secure: optional
+
+skip_files: app.yaml

@@ -1,0 +1,12 @@
+com/losheroes/app/cliente/controllers/IndexController.class
+com/losheroes/app/cliente/controllers/ClienteController.class
+com/losheroes/app/cliente/exceptions/ErrorResponse.class
+com/losheroes/app/cliente/config/CORSConfig.class
+com/losheroes/app/cliente/config/CORSConfig$1.class
+com/losheroes/app/cliente/services/ClienteService.class
+com/losheroes/app/cliente/services/ClienteServiceImpl.class
+com/losheroes/app/cliente/exceptions/ClienteExceptionHandler.class
+com/losheroes/app/cliente/entities/Cliente.class
+com/losheroes/app/cliente/ClienteApplication.class
+com/losheroes/app/cliente/ServletInitializer.class
+com/losheroes/app/cliente/repositories/ClienteRepository.class

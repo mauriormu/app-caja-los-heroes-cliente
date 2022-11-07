@@ -1,0 +1,11 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+ClienteApplication,com.losheroes.app.cliente.entities,Cliente,52,0,0,0,9,0,15,0,15,0
+ClienteApplication,com.losheroes.app.cliente.controllers,IndexController,5,0,0,0,2,0,2,0,2,0
+ClienteApplication,com.losheroes.app.cliente.controllers,ClienteController,99,0,6,0,18,0,10,0,7,0
+ClienteApplication,com.losheroes.app.cliente.config,CORSConfig,8,0,0,0,2,0,2,0,2,0
+ClienteApplication,com.losheroes.app.cliente.config,CORSConfig.new WebMvcConfigurer() {...},37,0,0,0,5,0,2,0,2,0
+ClienteApplication,com.losheroes.app.cliente.exceptions,ClienteExceptionHandler,82,0,4,0,12,0,6,0,4,0
+ClienteApplication,com.losheroes.app.cliente.exceptions,ErrorResponse,225,0,32,0,20,0,32,0,16,0
+ClienteApplication,com.losheroes.app.cliente,ServletInitializer,12,0,0,0,2,0,2,0,2,0
+ClienteApplication,com.losheroes.app.cliente,ClienteApplication,8,0,0,0,3,0,2,0,2,0
+ClienteApplication,com.losheroes.app.cliente.services,ClienteServiceImpl,37,0,0,0,9,0,6,0,6,0
